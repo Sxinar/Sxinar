@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basaransemih
 - 👀 I’m interested in C#,mobil devices,Linux,Web script developer...
-- 🌱 I’m currently learning Linux,PHP.
+- 🌱 I’m currently learning Linux and PHP.
 - 📫 How to reach me basaransemih.github.io /oshidev@proton.me
 - 😄 Pronouns: Hardwordking
 - ⚡ Fun fact: I'm Noob :D
