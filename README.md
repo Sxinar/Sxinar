@@ -9,7 +9,7 @@
 
 - 👨‍💻 Tüm projelerime [https://basaransemih.github.io/proje](https://basaransemih.github.io/proje) adresinden ulaşabilirsiniz
 
-- 📝 Düzenli olarak [https://basaransemih'de makaleler yazıyorum. .github.io](https://basaransemih.github.io)
+- 📝 Düzenli olarak [Github Page'de makaleler yazıyorum.](https://basaransemih.github.io)
 
 - 💬 Bana **Android cihazlar ve sorunları** hakkında soru sorun
 
