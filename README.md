@@ -1,7 +1,7 @@
-<h1 align="center">Merhaba 👋, ben Semih</h1>
+<h1 align="center">Merhaba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, ben Semih</h1>
 <h3 align="center">Hobi olarak yazılım öğrenen bir lise öğrencisi</h3>
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wiseweb-works.github.io/blog/)
 
-<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=basaransemih" alt = "basaransemih" / ></a> </p>
 
 - 🔭 Şu anda **Bir oyun projesi** üzerinde çalışıyorum
 
