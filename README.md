@@ -1,5 +1,5 @@
 # 💫 Hakkımda:
-🔭 Şu anda Bir oyun projesi üzerinde çalışıyorum<br><br>🌱 Şu anda C#,PHP,C++,JavaScript,Phyton,Java,HTML,CSS öğreniyorum<br><br>👨‍💻 Tüm projelerime https://basaransemih.github.io/proje adresinden ulaşabilirsiniz<br><br>📝 Düzenli olarak https://basaransemih'de makaleler yazıyorum. .github.io<br><br>💬 Bana Android cihazlar ve sorunları hakkında soru sorun<br><br>📫 Bana nasıl ulaşabilirsiniz oshidev@proton.me<br><br>⚡ Eğlenceli gerçek *Hala yolculuğun başındayım*
+🔭 Şu anda Bir oyun projesi üzerinde çalışıyorum<br><br>🌱 Şu anda C#,PHP,C++,JavaScript,Phyton,Java,HTML,CSS öğreniyorum<br><br>👨‍💻 Tüm projelerime https://sxinar.github.io/proje adresinden ulaşabilirsiniz<br><br>📝 Düzenli olarak makaleler yazıyorum. .github.io<br><br>💬 Bana Android cihazlar ve sorunları hakkında soru sorun<br><br>📫 Bana nasıl ulaşabilirsiniz oshidev@proton.me<br><br>⚡ Eğlenceli gerçek *Hala yolculuğun başındayım*
 
 
 # 💻 Kullandığım/Geliştirdiğim yazılımlar :
