@@ -133,7 +133,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sxinar/Sxinar/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Sxinar/sxinar.github.io/5cd14a58397f88548e3448d27f14dc8ef3f91a15/static/images/github-user-contribution.svg]" alt="Snake animation" />
 
 ###
 
