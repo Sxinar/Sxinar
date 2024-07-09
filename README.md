@@ -140,7 +140,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="(https://raw.githubusercontent.com/Sxinar/sxinar.github.io/5cd14a58397f88548e3448d27f14dc8ef3f91a15/static/images/github-user-contribution.svg)"  />
+  <img src="[[](https://raw.githubusercontent.com/Sxinar/sxinar.github.io/5cd14a58397f88548e3448d27f14dc8ef3f91a15/static/images/github-user-contribution.svg)"  />
 </div>
 
 ###
