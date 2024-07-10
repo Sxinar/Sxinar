@@ -13,6 +13,10 @@
 <p align="center">I am an Android enthusiast, Q keyboard expert, whose goal is software engineering, who does his best both materially and morally to keep open source software alive, and who also develops open source android applications.  A 17-year-old high school senior who loves listening to music, has just met Github and has not yet learned all its details, and is a Turkish citizen.</p>
 
 ###
+<div align="center">
+  <a href="sxi.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutanota logo"  />
+  </a>
 
 <div align="center">
   <a href="mailto:blog.sxinar@gmail.com" target="_blank">
@@ -28,18 +32,11 @@
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
   <a href="https://sxi.is-a.dev/link" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+    <img src="https://img.shields.io/static/v1?message=Link sayfam&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sxinar&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sxinar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
@@ -129,18 +126,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
 </div>
 
-###
+# Contact me
 
-<br clear="both">
+</p>
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href="https://sxi.is-a.dev" target="blank"><img align="center" src="upload://sJg8u7g1tkgHZ5FbePozZG2Nwt3.png" "="" height="40" width="40"></a>
+<a href="mail.to:me.unreal462@simplelogin.com" target="blank"><img align="center" src="upload://a2tAdprLgneQFkSOfmuJW0WDW6j.png" height="40" width="40"></a>
+<a 
+href="https://sxi.is-a.dev/i̇ndex.xml" 
+target="blank"><img align="center" src="https://raw.githubusercontent.com/Sxinar/sxinar.github.io/main/static/images/imza-png/rss_feed_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24.png"  height="40" width="40"></a>
+<a href="https://github.com/sxinar" target="blank"><img align="center" src="upload://sQPBvU9J2hPu5KseZ1rW5nu0Kxp.png" height="40" width="40"></a>
+</p>
 
-<img src="[https://raw.githubusercontent.com/Sxinar/sxinar.github.io/5cd14a58397f88548e3448d27f14dc8ef3f91a15/static/images/github-user-contribution.svg]" alt="Snake animation" />
+# ğŸ“Š GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sxinar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sxinar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxinar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="[[](https://raw.githubusercontent.com/Sxinar/sxinar.github.io/5cd14a58397f88548e3448d27f14dc8ef3f91a15/static/images/github-user-contribution.svg)"  />
-</div>
-
-###
+### 🧑‍💻 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
