@@ -131,7 +131,7 @@
 </p>
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://sxi.is-a.dev" target="blank"><img align="center" src="upload://sJg8u7g1tkgHZ5FbePozZG2Nwt3.png" "="" height="40" width="40"></a>
+<a href="https://sxi.is-a.dev" target="blank"><img align="center" src="upload://sJg8u7g1tkgHZ5FbePozZG2Nwt3.png" height="40" width="40"</a>
 <a href="mail.to:me.unreal462@simplelogin.com" target="blank"><img align="center" src="upload://a2tAdprLgneQFkSOfmuJW0WDW6j.png" height="40" width="40"></a>
 <a 
 href="https://sxi.is-a.dev/i̇ndex.xml" 
