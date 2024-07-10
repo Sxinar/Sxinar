@@ -14,7 +14,7 @@
 
 ###
 <div align="center">
-  <a href="sxi.is-a.dev" target="_blank">
+  <a href="https://sxi.is-a.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutanota logo"  />
   </a>
 
