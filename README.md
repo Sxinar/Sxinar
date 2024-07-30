@@ -136,10 +136,10 @@
 <a 
 href="https://sxi.is-a.dev/i̇ndex.xml" 
 target="blank"><img align="center" src="/rss.png"  height="40" width="40"></a>
-<a href="https://github.com/sxinar" target="blank"><img align="center" src="upload://sQPBvU9J2hPu5KseZ1rW5nu0Kxp.png" height="40" width="40"></a>
+<a href="https://github.com/sxinar" target="blank"><img align="center" src="/github-logo.png" height="40" width="40"></a>
 </p>
 
-# ğŸ“Š GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sxinar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sxinar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxinar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
