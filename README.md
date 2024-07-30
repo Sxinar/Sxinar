@@ -131,11 +131,11 @@
 </p>
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://sxi.is-a.dev" target="blank"><img align="center" src="upload://sJg8u7g1tkgHZ5FbePozZG2Nwt3.png" height="40" width="40"</a>
-<a href="mail.to:me.unreal462@simplelogin.com" target="blank"><img align="center" src="upload://a2tAdprLgneQFkSOfmuJW0WDW6j.png" height="40" width="40"></a>
+<a href="https://sxi.is-a.dev" target="blank"><img align="center" src="/lang.png" height="40" width="40"</a>
+<a href="mail.to:me.unreal462@simplelogin.com" target="blank"><img align="center" src="/mail.png" height="40" width="40"></a>
 <a 
 href="https://sxi.is-a.dev/i̇ndex.xml" 
-target="blank"><img align="center" src="https://raw.githubusercontent.com/Sxinar/sxinar.github.io/main/static/images/imza-png/rss_feed_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24.png"  height="40" width="40"></a>
+target="blank"><img align="center" src="/rss.png"  height="40" width="40"></a>
 <a href="https://github.com/sxinar" target="blank"><img align="center" src="upload://sQPBvU9J2hPu5KseZ1rW5nu0Kxp.png" height="40" width="40"></a>
 </p>
 
