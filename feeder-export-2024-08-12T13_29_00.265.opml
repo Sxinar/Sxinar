@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1" xmlns:feeder="https://nononsenseapps.com/feeder">
+  <head>
+    <title>
+      Feeder
+    </title>
+  </head>
+  <body>
+    <outline title="Göz Gezdir" text="Göz Gezdir">
+      <outline feeder:notify="true" feeder:imageUrl="https://rss.dw.com/images/DW-L-RGB_whitebg.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="DW teknoloji" text="DW teknoloji" type="rss" xmlUrl="http://rss.dw.com/rdf/rss-tur-all"/>
+      <outline feeder:notify="true" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="MHK developer" text="MHK developer" type="rss" xmlUrl="https://twitter.com/mhk_developer/rss"/>
+    </outline>
+    <outline title="Medium" text="Medium">
+      <outline feeder:notify="true" feeder:imageUrl="https://cdn-images-1.medium.com/proxy/1*TGH72Nnw24QL3iV9IOm4VA.png" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="Türkiye UP - Medium" text="Türkiye UP - Medium" type="rss" xmlUrl="https://turkiyeyayini.com/feed"/>
+    </outline>
+    <outline title="YouTube" text="YouTube">
+      <outline feeder:notify="true" feeder:imageUrl="https://m.youtube.com/static/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="at0m" text="at0m" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVkthTf4iDe7GRGoIgOHaXg"/>
+    </outline>
+    <outline title="Yusuf İpek" text="Yusuf İpek">
+      <outline feeder:notify="true" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="BTT haberler" text="BTT haberler" type="rss" xmlUrl="https://btt.community/c/haberler/27.rss"/>
+      <outline feeder:notify="true" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="BTT makale" text="BTT makale" type="rss" xmlUrl="https://btt.community/c/urettikleriniz/22.rss"/>
+      <outline feeder:notify="true" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="Teknoloji Rehberleri" text="Teknoloji Rehberleri" type="rss" xmlUrl="https://teknolojirehberleri.xyz/rss"/>
+      <outline feeder:notify="true" feeder:imageUrl="https://yusufipek.me/favicon.png" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="Yusuf İpek" text="Yusuf İpek" type="rss" xmlUrl="https://yusufipek.me/rss"/>
+    </outline>
+    <feeder:settings>
+      <feeder:setting key="pref_sync_only_wifi" value="false"/>
+      <feeder:setting key="prefs_filter_recently_read" value="true"/>
+      <feeder:setting key="prefs_list_show_only_titles" value="true"/>
+      <feeder:setting key="pref_sync_freq" value="60"/>
+      <feeder:setting key="pref_is_mark_as_read_on_scroll" value="true"/>
+      <feeder:setting key="pref_added_feeder_news" value="true"/>
+      <feeder:setting key="pref_img_only_wifi" value="true"/>
+      <feeder:setting key="pref_dark_theme" value="black"/>
+      <feeder:setting key="pref_sync_only_charging" value="false"/>
+      <feeder:setting key="pref_sync_on_resume" value="true"/>
+      <feeder:setting key="pref_img_show_thumbnails" value="false"/>
+      <feeder:setting key="pref_feed_item_style" value="CARD"/>
+      <feeder:setting key="prefs_filter_read" value="false"/>
+    </feeder:settings>
+  </body>
+</opml>
