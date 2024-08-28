@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-https://profile-readme-generator.com/assets/snake.svg
+![image](https://github.com/user-attachments/assets/74c13363-1117-42c5-83cc-942818f20294)
 ###
 
 <div align="center">
