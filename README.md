@@ -66,8 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sxinar/sxinar/output/snake.svg" alt="Snake animation" />
-
+https://profile-readme-generator.com/assets/snake.svg
 ###
 
 <div align="center">
