@@ -45,10 +45,6 @@
 
 ### 📊 İstatistikler | Stats
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sxinar&show_icons=true&locale=en&layout=compact" alt="En Çok Kullanılan Diller" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sxinar&show_icons=true&locale=en" alt="Genel İstatistikler" />
-<br><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxinar" alt="Kodlama Serisi" />
 </p>
 
 ---
