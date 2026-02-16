@@ -53,3 +53,8 @@
 <p align="left">
 <a href="https://sxinar.github.io/feed.xml" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS Feed" height="30" width="40" /></a>
 </p>
+
+
+## 💬 Topluluk ve Destek
+Özgür yazılım projelerimiz hakkında soru sormak ve tartışmalara katılmak için forumumuza bekleriz:
+[🚀 Artado Forum - Özgür Yazılım Topluluğu](https://forum.artado.xyz)
