@@ -46,6 +46,7 @@
 ### 📊 İstatistikler | Stats
 <p align="center">
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sxinar&theme=black-ice)
 
 ---
 
