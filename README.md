@@ -46,14 +46,11 @@
 ### 📊 İstatistikler | Stats
 <p align="center">
 
+  ![Sxinar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sxinar&show_icons=true&theme=radical)
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sxinar&theme=black-ice)
 
 ---
-
-### 🤝 Bağlantı Kur | Connect with me
-<p align="left">
-<a href="https://sxinar.github.io/feed.xml" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS Feed" height="30" width="40" /></a>
-</p>
 
 
 ## 💬 Topluluk ve Destek
